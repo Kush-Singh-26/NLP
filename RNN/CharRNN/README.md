@@ -22,4 +22,5 @@ python predict.py
 
 ---
 
-There is also another file 
+- There is also another file `ChargenerateRNN`.
+- It is also a char level rnn trained on Shakespeare's text, to generate text like it.
